@@ -20,3 +20,11 @@ Microsoft Power BI: Created six visualizations to produce a report to explain th
 <img src="img/2tPay.png" width="800"> 
 
 <img src="img/3t10state.png" width="800"> 
+
+<img src="img/4b10states.png" width="800"> 
+
+<img src="img/5t10pc.png" width="800"> 
+
+<img src="img/6b10pc.png" width="800"> 
+
+<img src="img/7ord.png" width="800"> 
