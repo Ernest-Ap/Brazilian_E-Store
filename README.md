@@ -27,4 +27,4 @@ Microsoft Power BI: Created six visualizations to produce a report to explain th
 
 <img src="img/6b10pc.png" width="800"> 
 
-<img src="img/7ord.png" width="800"> 
+<img src="img/.png" width="800"> 
