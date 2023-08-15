@@ -28,3 +28,16 @@ Microsoft Power BI: Created six visualizations to produce a report to explain th
 <img src="img/6b10pc.png" width="800"> 
 
 <img src="img/7ord.png" width="800"> 
+
+## Summary
+  
+### Improvements:  
+The payment value from 2016 – 2018 has mostly gone in an upward trend. The last two months of recorded data (September and October 2018) had a very steep decline. Ways to improve this is updating overall advertisement every quarter during the year, to keep the attention of current customers and attract new customers. 
+
+Bottom 10 Customer States by Number of Orders Delivered, these states can do targeted advertisement to better attract more customers or find out the types of products that are more useful to the customers from these states.  
+
+Bottom 10 Product Categories by Number of Order the lowest was Insurance and services and fashion clothing for children. Restructure the insurance and services plan and process when applying for this service to make it more appealing and straight forward for users. Hire new and more fashion designers that specialise particularly in children’s fashion this will generate more ideas to improve this type of clothing.
+
+Number of Orders delivered On time, Early and Late, between 1-10 (-10-0, 8.54%) days late delivery; or on the exact day that was the estimated delivery date. This is (0) days, (-10-0) section within the histogram chart. Decrease lateness percentages, by making the delivery process smoother and fix any errors within the delivery system as quickly as possible to increase better delivery times.  
+
+
