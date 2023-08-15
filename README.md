@@ -4,12 +4,12 @@
 <img src="img/1Olist.png" width="650"> 
 
 ### In this report I will analyse: 
-Total Payment Value by Year and Month: (Line Chart)
-Top 10 Customer States by Number of Orders Delivered: (Map Chart)
-Bottom 10 Customer States by Number of Orders Delivered: (Map Chart)
-Top 10 Product Categories by Number of Order: (Clustered Bar Chart)
-Bottom 10 Product Categories by Number of Order: (Clustered Bar Chart)
-Number of Orders delivered On time, Early and Late : (Histogram Chart)
+<li>Total Payment Value by Year and Month: (Line Chart)
+<li>Top 10 Customer States by Number of Orders Delivered: (Map Chart)
+<li>Bottom 10 Customer States by Number of Orders Delivered: (Map Chart)
+<li>Top 10 Product Categories by Number of Order: (Clustered Bar Chart)
+<li>Bottom 10 Product Categories by Number of Order: (Clustered Bar Chart)
+<li>Number of Orders delivered On time, Early and Late : (Histogram Chart)
 
 ### Software used:
 Google sheets: To translate the products from Portuguese to English in one of the multiple Olist Datasets.   
