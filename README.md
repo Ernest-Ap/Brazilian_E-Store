@@ -3,9 +3,7 @@
 
 <img src="img/1Olist.png" width="650"> 
 
-In this report I will analyse the data of pizza orders.
-
-### I will mention: 
+### In this report I will analyse: 
 Total Payment Value by Year and Month: (Line Chart)
 Top 10 Customer States by Number of Orders Delivered: (Map Chart)
 Bottom 10 Customer States by Number of Orders Delivered: (Map Chart)
