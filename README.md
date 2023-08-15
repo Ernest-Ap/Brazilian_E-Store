@@ -4,7 +4,7 @@
 <img src="img/1Olist.png" width="650"> 
 
 ### In this report I will analyse: 
-<li>Total Payment Value by Year and Month with forecast: (Line Chart)
+<li>Total Payment Value by Year and Month with Forecast: (Line Chart)
 <li>Top 10 Customer States by Number of Orders Delivered: (Map Chart)
 <li>Bottom 10 Customer States by Number of Orders Delivered: (Map Chart)
 <li>Top 10 Product Categories by Number of Order: (Clustered Bar Chart)
@@ -31,7 +31,7 @@ Microsoft Power BI: Created six visualizations to produce a report to explain th
 ## Summary
   
 ### Improvements:  
-The payment value from 2016 – 2018 has mostly gone in an upward trend. The last two months of recorded data (September and October 2018) had a very steep decline failing to meet forecast value predictions. Ways to improve this is updating overall advertisement every quarter during the year, to keep the attention of current customers and attract new customers. 
+The payment value from 2016 – 2018 has mostly gone in an upward trend. The last two months of recorded data (September and October 2018) had a very steep decline failing to meet their forecast value predictions. Ways to improve this is updating overall advertisement every quarter during the year, to keep the attention of current customers and attract new customers. 
 
 Bottom 10 Customer States by Number of Orders Delivered, these states can do targeted advertisement to better attract more customers or find out the types of products that are more useful to the customers from these states.  
 
