@@ -15,7 +15,7 @@
 Google sheets: To translate the products from Portuguese to English in one of the multiple Olist Datasets.   
 Microsoft Power BI: Created six visualizations to produce a report to explain the different insights from the data. Dax formulas used to combine columns to fix an error with the map chart location. To get the difference from the delivery estimated date and delivery date, next to group the days from the difference and to sort out the order of the histogram. 
 <br><br>
-<img src="img/2tPay.png" width="800"> 
+<img src="img/y.png" width="800"> 
 
 <img src="img/3t10state.png" width="800"> 
 
